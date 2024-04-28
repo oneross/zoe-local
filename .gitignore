@@ -1,7 +1,12 @@
 # Secrets
 *secret*
 
-# MacOS
+# Python cache and temporary files
+__pycache__/
+*.py[cod]
+tmp/*
+
+# MacOS system files
 .DS_Store
 .AppleDouble
 .LSOverride
