@@ -1,0 +1,5 @@
+name: zoe-local
+dependencies:
+- python=3
+- numpy
+- ipython
